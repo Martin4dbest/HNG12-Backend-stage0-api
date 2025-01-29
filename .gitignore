@@ -1,1 +1,43 @@
 venv/\n__pycache__/\n.env\n*.pyc
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.env
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.bak
+*.tmp
+
+# Build directories
+dist/
+build/
+*.egg-info/
+*.whl
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+.env
+.docker/
+.heroku/
+.terraform/
+
+# Dependency directories
+node_modules/
+package-lock.json
+*.lock
+pip-wheel-metadata/
