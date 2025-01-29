@@ -33,7 +33,7 @@ I am a passionate backend developer with a strong foundation in Python and Flask
 2. Create a virtual environment:
    ```sh
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scriptsctivate`
+   source venv/bin/activate  
    ```
 
 3. Install dependencies:
@@ -48,7 +48,7 @@ I am a passionate backend developer with a strong foundation in Python and Flask
 
    The server will start, and the API will be accessible at `http://127.0.0.1:5000`.
 
-   
+
 
 ## API Documentation
 

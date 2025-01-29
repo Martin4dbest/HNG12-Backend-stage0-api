@@ -4,7 +4,7 @@ from datetime import datetime
 import pytz
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS
+CORS(app)  
 
 @app.route('/', methods=['GET'])
 def get_infomation():
